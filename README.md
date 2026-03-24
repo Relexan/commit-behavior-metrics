@@ -34,6 +34,6 @@ This tool uses **heuristic and diff-based metric extraction** rather than full s
 
 ## 🛠️ Usage
 
-### 1. Clone this repository
+### 1. Clone the target repository
 ### 2. Run the script
 .\script.ps1 -Repo "PATH_TO_TARGET_REPO" -Hash "COMMIT_HASH"
